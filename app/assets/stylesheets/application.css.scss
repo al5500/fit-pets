@@ -12,4 +12,16 @@
  *
  *= require_tree .
  *= require_self
+ *= require bootstrap.min
+ *= require ionicons.min
+ *= require animate
+ *= require slider
+ *= require owl.carousel
+ *= require owl.theme
+ *= require jquery.fancybox
+ *= require main
+ *= require responsive
  */
+@import 'ionicons';
+
+

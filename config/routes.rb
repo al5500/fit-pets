@@ -58,4 +58,5 @@ Rails.application.routes.draw do
   get "price", to: "pages#price"
   get "contact", to: "pages#contact"
   get "membership", to: "pages#membership"
+  get "terms_and_conditions", to: "pages#terms_and_conditions"
 end
